@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague\\FootballLeague.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj",
+        "projectName": "FootballLeague.Data.Entities",
+        "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj",
+        "packagesPath": "C:\\Users\\Vangel Iliev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vangel Iliev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Implementation\\FootballLeague.Data.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Implementation\\FootballLeague.Data.Implementation.csproj",
+        "projectName": "FootballLeague.Data.Implementation",
+        "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Implementation\\FootballLeague.Data.Implementation.csproj",
+        "packagesPath": "C:\\Users\\Vangel Iliev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vangel Iliev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj": {
+                "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj"
+              },
+              "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Interfaces\\FootballLeague.Data.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Interfaces\\FootballLeague.Data.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Interfaces\\FootballLeague.Data.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Interfaces\\FootballLeague.Data.Interfaces.csproj",
+        "projectName": "FootballLeague.Data.Interfaces",
+        "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Interfaces\\FootballLeague.Data.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Vangel Iliev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vangel Iliev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj": {
+                "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague\\FootballLeague.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague\\FootballLeague.csproj",
+        "projectName": "FootballLeague",
+        "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague\\FootballLeague.csproj",
+        "packagesPath": "C:\\Users\\Vangel Iliev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vangel Iliev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj": {
+                "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Entities\\FootballLeague.Data.Entities.csproj"
+              },
+              "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Implementation\\FootballLeague.Data.Implementation.csproj": {
+                "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Implementation\\FootballLeague.Data.Implementation.csproj"
+              },
+              "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Interfaces\\FootballLeague.Data.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Vangel Iliev\\source\\repos\\FootballLeague\\FootballLeague.Data.Interfaces\\FootballLeague.Data.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

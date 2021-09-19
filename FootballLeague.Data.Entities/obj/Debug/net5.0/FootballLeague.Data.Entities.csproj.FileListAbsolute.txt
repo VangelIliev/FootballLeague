@@ -1,0 +1,12 @@
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\bin\Debug\net5.0\FootballLeague.Data.Entities.deps.json
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\bin\Debug\net5.0\FootballLeague.Data.Entities.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\bin\Debug\net5.0\ref\FootballLeague.Data.Entities.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\bin\Debug\net5.0\FootballLeague.Data.Entities.pdb
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\obj\Debug\net5.0\FootballLeague.Data.Entities.csproj.AssemblyReference.cache
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\obj\Debug\net5.0\FootballLeague.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\obj\Debug\net5.0\FootballLeague.Data.Entities.AssemblyInfoInputs.cache
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\obj\Debug\net5.0\FootballLeague.Data.Entities.AssemblyInfo.cs
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\obj\Debug\net5.0\FootballLeague.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\obj\Debug\net5.0\FootballLeague.Data.Entities.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\obj\Debug\net5.0\ref\FootballLeague.Data.Entities.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Entities\obj\Debug\net5.0\FootballLeague.Data.Entities.pdb

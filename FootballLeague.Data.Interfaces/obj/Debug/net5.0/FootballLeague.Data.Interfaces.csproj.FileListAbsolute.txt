@@ -1,0 +1,15 @@
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\bin\Debug\net5.0\FootballLeague.Data.Interfaces.deps.json
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\bin\Debug\net5.0\FootballLeague.Data.Interfaces.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\bin\Debug\net5.0\ref\FootballLeague.Data.Interfaces.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\bin\Debug\net5.0\FootballLeague.Data.Interfaces.pdb
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\bin\Debug\net5.0\FootballLeague.Data.Entities.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\bin\Debug\net5.0\FootballLeague.Data.Entities.pdb
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\FootballLeague.Data.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\FootballLeague.Data.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\FootballLeague.Data.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\FootballLeague.Data.Interfaces.AssemblyInfo.cs
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\FootballLeague.Data.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\FootballLeague.Data.Interfaces.csproj.CopyComplete
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\FootballLeague.Data.Interfaces.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\ref\FootballLeague.Data.Interfaces.dll
+C:\Users\Vangel Iliev\source\repos\FootballLeague\FootballLeague.Data.Interfaces\obj\Debug\net5.0\FootballLeague.Data.Interfaces.pdb
